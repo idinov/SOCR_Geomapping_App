@@ -1,0 +1,43 @@
+
+Descriptive statistics
+====================================================================================
+Statistic                                          N    Mean   St. Dev.  Min   Max  
+------------------------------------------------------------------------------------
+Year                                             3,705 2,016.0   0.8    2,015 2,017 
+District.Code                                    3,705   6.2     2.9      1     10  
+Neighborhood.Code                                3,705  36.3     21.6     1     73  
+Death_Number                                     3,705  11.1     19.9     0    139  
+By_Age_Immigrants                                3,705  72.6    118.0     0   1,393 
+By_Age_Emigrants                                 3,705  41.8     48.3     0    451  
+Spain                                            3,705  539.3   337.8    100  1,603 
+Italy                                            3,705  55.7    101.7     0    360  
+Colombia                                         3,705   6.5     28.7     0    174  
+Venezuela                                        3,705   5.3     26.9     0    225  
+Pakistan                                         3,705  27.1    113.3     0    938  
+France                                           3,705  14.0     43.6     0    209  
+Morocco                                          3,705   4.8     27.7     0    211  
+United.Kingdom                                   3,705   3.0     18.9     0    150  
+India                                            3,705   6.3     33.7     0    260  
+Germany                                          3,705   0.5     7.2      0    101  
+Bangladesh                                       3,705   6.9     55.4     0    470  
+Philippines                                      3,705   4.8     34.9     0    293  
+United.States                                    3,705   2.9     17.8     0    124  
+China                                            3,705  16.7     48.5     0    210  
+Peru                                             3,705   1.3     12.5     0    132  
+Argentina                                        3,705   1.6     12.8     0    106  
+Brasil                                           3,705   2.3     16.0     0    119  
+Dominican.Republic                               3,705   0.5     7.5      0    105  
+Honduras                                         3,705  10.2     39.4     0    217  
+Population_Number_Male                           3,705  121.7    92.4    1.0  671.4 
+Population_Number_Female                         3,705  135.0    93.9    4.5  589.4 
+By_Sex_Immigrants_Male                           3,705  681.4   512.3    62   3,219 
+By_Sex_Immigrants_Female                         3,705  698.9   483.5    78   2,337 
+By_Sex_Emigrants_Male                            3,705  391.9   242.2    58   1,541 
+By_Sex_Emigrants_Female                          3,705  404.0   235.3    55   1,034 
+Birth_Number_Male                                3,705  103.7    60.0     0    283  
+Birth_Number_Female                              3,705  98.2     58.3     0    256  
+Unemployment_Number_Male_Registered.unemployed   3,705 7,172.9 4,396.6   605  29,393
+Unemployment_Number_Male_Unemployment.demand     3,705 1,867.1 1,111.3   144  5,739 
+Unemployment_Number_Female_Registered.unemployed 3,705 8,049.8 4,383.3   732  24,100
+Unemployment_Number_Female_Unemployment.demand   3,705 1,979.3 1,095.3   129  5,545 
+------------------------------------------------------------------------------------
